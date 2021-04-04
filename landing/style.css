@@ -120,3 +120,29 @@
     align-items: center;
     justify-content: center;
 }
+
+
+
+.sign__in:hover{
+    background-color: #BA55D3;
+    transition-duration: 500ms;
+}
+
+.sign__up:hover{
+    background-color:tomato;
+    transition-duration: 500ms;
+}
+
+.about:hover{
+    background-color: black;
+    transition-duration: 350ms;
+}
+
+
+.click__menu:hover{
+    transform: translateY(-5px);
+}
+
+.header__logo:hover{
+    transform: scale(1.1);
+}
