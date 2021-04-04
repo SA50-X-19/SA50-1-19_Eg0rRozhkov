@@ -100,7 +100,6 @@ a{
     justify-content: center;
 }
 
-
 .survival{
     display: flex;
     align-items: flex-end;
@@ -162,3 +161,51 @@ a{
 .donate:hover{
     transform: scale(1.1);
 }
+
+
+.latest__articles{
+    width: 1440px;
+    height: 1368px;
+    display: flex;
+    flex-direction: column;
+    background-color: #CCCCCC;
+    ;
+}
+
+.hight__text{
+    height: 350px;
+    width: 1440px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.main__text{
+    width: 1440px;
+    height: 72px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 72px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.puspota__latest{
+    height:20px;
+    width: 1440px;
+}
+
+.dop__text{
+    height:36px;
+    width: 1440px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+}
+
