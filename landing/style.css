@@ -1,0 +1,148 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    box-sizing: border-box;
+}
+
+.wrapper{
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+    padding-top: 79px;
+    background: #3B1D60;
+}
+
+.header{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    max-height: 36px;
+    max-width: 1100px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.header__left{
+    width: 550px;
+    height: 36px;
+}
+
+.menu{
+    height: 36px;
+    width: 347px;
+}
+
+.menu__list{
+    height: 36px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__right{
+    width: 550px;
+    height:36px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.sign{
+    display:flex;
+}
+
+.sign__in{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 112px;
+    height: 36px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #F2994A;
+    border-width: 1px;
+    background: #3B1D60;
+}
+
+.sign__up{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 112px;
+    height: 36px;
+    border-radius: 5px;
+    background: #F2994A;
+}
+
+
+.header__logo{
+    width: 36px;
+    height: 36px;
+    background: #F2994A;
+    border-radius: 100%;
+}
+
+.logo__item1{
+    width: 20px;
+    height: 4px;
+    background: white;
+    border-radius: 20%;
+}
+
+.logo__item2{
+    width: 20px;
+    height: 4px;
+    background-color: white;
+    margin-top: 3px;
+    border-radius: 20%;
+}
+
+.left__block{
+    width: 427px;
+    height: 36px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.sign{
+    width: 244px;
+    height: 36px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    width: 36px;
+    height: 36px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.sign__in:hover{
+    background-color: #BA55D3;
+    transition-duration: 500ms;
+}
+
+.sign__up:hover{
+    background-color:tomato;
+    transition-duration: 500ms;
+}
+
+.about:hover{
+    background-color: black;
+    transition-duration: 350ms;
+}
+
+
+.click__menu:hover{
+    transform: translateY(-5px);
+}
+
+.header__logo:hover{
+    transform: scale(1.1);
+}
