@@ -209,3 +209,45 @@ a{
     text-align: center;
 }
 
+
+.half__block{
+    height: 480px;
+    width: 1440px;
+    display: flex;
+    justify-content: center;
+    background-color: #CCCCCC;
+    align-items: flex-end;
+}
+
+.main__half{
+    height:360px;
+    width:1200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.picture__1{
+    width: 300px;
+    height: 360px;
+    display: flex;
+    justify-content:center;
+    align-items: flex-end;
+}
+
+.picture__2{
+    width: 300px;
+    height: 360px;
+    display: flex;
+    justify-content:center;
+    align-items: flex-end;
+}
+
+.picture__3{
+    width: 300px;
+    height: 360px;
+    display: flex;
+    justify-content:center;
+    align-items: flex-end;
+}
+
