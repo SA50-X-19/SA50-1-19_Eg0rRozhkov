@@ -137,3 +137,12 @@
     background-color: black;
     transition-duration: 350ms;
 }
+
+
+.click__menu:hover{
+    transform: translateY(-5px);
+}
+
+.header__logo:hover{
+    transform: scale(1.1);
+}
