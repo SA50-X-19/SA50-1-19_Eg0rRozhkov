@@ -99,3 +99,25 @@ a{
     width: 1440px;
     justify-content: center;
 }
+
+
+.survival{
+    display: flex;
+    align-items: flex-end;
+    height: 460px;
+    width: 395px;
+    justify-content: flex-end;
+}
+
+.survival__text{
+    width: 275px;
+    height: 340px;
+    display: flex;
+    flex-direction:column;
+    justify-content: space-between;
+}
+.menu__survival{
+    display: block;
+    align-items: space;
+}
+
