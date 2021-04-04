@@ -146,3 +146,19 @@ a{
     height: 108px;
 }
 
+.donate{
+    width: 160px;
+    height: 60px;
+    background-color:#CD6326;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    font-family: roboto;
+    color:white;
+    border-radius: 7px;
+}
+
+
+.donate:hover{
+    transform: scale(1.1);
+}
