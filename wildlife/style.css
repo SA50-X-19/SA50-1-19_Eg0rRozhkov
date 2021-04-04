@@ -121,3 +121,28 @@ a{
     align-items: space;
 }
 
+.survival__zagolovok{
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 72px;
+    letter-spacing: 2px;
+    text-align: left;
+    color: #CD6326;
+}
+
+.survival__osnova{
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+}
+
+.survival__osnova{
+    width: 240px;
+    height: 108px;
+}
+
