@@ -1,0 +1,29 @@
+.box{
+    width:900px;
+    height:500px;
+    border: 2px dotted #000000;
+}
+.red{
+    width:100px;
+    height:100px;
+    border: 2px solid #FF0000;
+    position: absolute;
+    top:70px;
+    left:70px;
+}
+.purple{
+    width:100px;
+    height:100px;
+    border: 2px solid #800080;
+    position: absolute;
+    top:200px;
+    left:200px
+}
+.green{
+    width:100px;
+    height:100px;
+    border: 2px solid #008000;
+    position: absolute;
+    top:330px;
+    left:330px;
+}
