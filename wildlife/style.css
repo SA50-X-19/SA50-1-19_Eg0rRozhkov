@@ -515,7 +515,48 @@ input[type="strokka"]{
 }
 
 
+.right__footer__block{
+    width:480px;
+    height:360px;
+    display:flex;
+    justify-content:center;
+}
 
+
+.seti__list{
+    height:360px;
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+
+.site__footer__block{
+    width:270px;
+    height:360px;
+}
+
+
+.footer__logo:hover{
+    transform: translateY(-5px)
+}
+
+.footer__text__logo:hover{
+    transform: translateY(-5px)
+}
+
+.footer__menu:hover{
+    transform: translateY(-5px)
+}
+
+
+.seti__menu1:hover{
+    transform: translateY(-5px)
+}
+
+.seti__menu2:hover{
+    transform: translateY(+5px)
+}
 
 
 
